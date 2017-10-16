@@ -1,0 +1,31 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\Monitor.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\Monitor.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Interop.WMPLib.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\AxInterop.WMPLib.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.ResolveComReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\Interop.WMPLib.dll
+c:\users\lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\Monitor.exe.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Monitor\Monitor\bin\Debug\MySql.Data.dll
+E:\Projects\Monitor\Monitor\bin\Debug\Monitor.exe.config
+E:\Projects\Monitor\Monitor\bin\Debug\Monitor.exe
+E:\Projects\Monitor\Monitor\bin\Debug\Monitor.pdb
+E:\Projects\Monitor\Monitor\bin\Debug\MySql.Data.dll
+E:\Projects\Monitor\Monitor\bin\Debug\Interop.WMPLib.dll
+E:\Projects\Monitor\Monitor\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+E:\Projects\Monitor\Monitor\obj\Debug\Interop.WMPLib.dll
+E:\Projects\Monitor\Monitor\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.ResolveComReference.cache
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.exe
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\Projects\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
